@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kamera Budget</string>
+    <string name="kamera_depan">Kamera Depan</string>
+    <string name="kamera_belakang">Kamera Belakang</string>
+</resources>
